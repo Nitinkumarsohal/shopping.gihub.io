@@ -1,0 +1,368 @@
+@media (max-width: 1399.98px) { 
+  /* nothing   */
+ }
+
+ @media (max-width: 1199.98px) {
+    .carousel-caption {
+        bottom: 85px;
+    }
+    .carousel-caption h5{
+        font-size: 42px;
+        width: 65%;
+    }
+    .section2 .card .card-text span{
+        font-size: 14px;
+        line-height: 130%;
+        text-align: center;
+    }
+    .section4 .card .hover-icons{
+        top: 25%;
+    }
+    .section4 .card .next-text h4{
+        font-size: 15px;
+    }
+    .section5 .style-box .text h2{
+        font-size: 16px;
+    }
+   
+    .section7 .img .right-text h4{
+        font-size: 16px;
+        line-height: 120%;
+    }
+    .section7 .img .right-text .Corem{
+        font-size: 12px;
+        padding-top: 0px;
+    }
+    .section9 .all-style .img img{
+        border-radius: 13px;
+        height: 450px;
+        width: 450px;
+    
+    }
+    .section9 .all-style:hover .text-hover{
+        transform: translate(0px);
+    }
+    footer .text h5{
+        font-size: 16px;
+    
+    }
+    footer .style-box .text h4{
+        font-size: 12px;
+    }
+    .last h5{
+        font-size: 15px;
+    }
+    .copyright p{
+        font-size: 15px;
+    }
+    .copyright img{
+        height: 22px;
+    }
+ }
+
+
+
+
+
+ @media (max-width: 991.98px) { 
+        .navbar-toggler{
+            color: white;
+            font-size: 19px;
+            padding: 10px;
+            background-color: #E33D3D;
+            letter-spacing: 1px;
+            font-family: sans-serif;
+            font-weight: 600;
+        }
+        .navbar-toggler:focus{
+            box-shadow: none;
+            border: none;
+        }
+        .carousel-caption {
+            bottom: 50px;
+        }
+        .carousel-caption h5{
+            font-size:40px;
+            width: 100%;
+            line-height: 120%;
+        }
+        .section2{
+            padding: 25px;
+        }
+        .section2 .card{
+            margin: 10px;
+        }
+        .section2 .card .card-text span{
+            font-size: 15px;
+            padding-left: 40px;
+        }
+        .section3 {
+            padding: 25px;
+        }
+        .section4{
+            padding: 25px;
+        }
+        .section5{
+            padding: 25px;
+        }
+        .section5 .style-box{
+            margin: 10px;
+        
+        }
+        .section6{
+            min-height: 500px;
+            
+        }
+        .section6 .style-box {
+            padding-top: 35px;
+        }
+        .section6 .img img {
+            height: 746px;
+        }
+        .section7{
+            padding: 25px;
+        }
+        .section7 .main-box{
+            margin: 15px;
+        }
+        .section7 .img .right-text h4{
+            font-size: 25px;
+            line-height: 90%;
+        }
+        .section7 .img .right-text .Corem{
+            font-size: 17px ;
+        }
+        .section9{
+            padding: 25px;
+        }
+        .section9 .all-style{
+            margin: 10px;
+        }
+ }
+
+
+
+
+
+ @media (max-width: 767.98px) {
+    .carousel-caption {
+        bottom: 30px;
+    }
+    .carousel-caption h5{
+        font-size:30px;
+        text-align: center;
+    }
+    .carousel-caption button {
+        padding: 10px 28px 10px 28px;
+        color: white;
+        font-size: 16px;
+        margin-left: auto;
+        margin-right: auto;
+        display: block;
+    }
+    .section2{
+        padding: 15px;
+    }
+    .section2 .card .card-text span {
+        font-size: 19px;
+        text-align: center !important;
+    }
+    .section2 .card .card-text{
+        width: 62%;
+    }
+    .section4{
+        padding: 15px;
+    }
+    
+    .section4 .card .next-text h4{
+        font-size: 20px;
+    
+    }
+    .section4 .card .hover-icons{
+        transform: translate(-350px);
+        top: 35%;
+    }
+    
+    .section7 .img .right-text h4 {
+        font-size: 24px;
+    }
+    .section8 .main-style .text h3 {
+        text-align: center;
+        font-size: 24px;
+    }
+    .section9{
+        padding: 15px;
+    }
+    .section9 h3{
+        padding-top: 30px;
+    }
+    .section9 .all-style .img img {
+    border-radius: 13px;
+    width: 100%;
+    height: 600px;
+}
+.section9 .all-style .text-hover {
+  
+        padding: 74px;
+    }
+    .section9 .all-style .text-hover{
+        transform: translate(500px);
+    }
+
+  }
+
+
+
+
+
+
+
+
+
+
+  @media (max-width: 575.98px) {
+    .top-bar .text p {
+        padding-top: 6px;
+        font-size: 12px;
+      
+    }
+    .navbar-toggler {
+        font-size: 15px;
+    }
+    .carousel-caption {
+        bottom: 45px;
+    }
+    .carousel-caption h5{
+        font-size:20px;
+        text-align: center;
+    }
+    .carousel-caption button {
+        padding: 8px 26px 8px 26px;
+        color: white;
+        font-size: 14px;
+       
+    }
+    .w-100 {
+        width: 100%!important;
+        height: 322px;
+        object-fit: cover;
+    }
+    .section6{
+        padding: 10px;
+    }
+    .section6 .style-box .text h4 {
+        font-size: 30px;
+     
+    }
+    .section6 .style-box .text .Yorem {
+        font-size: 13px;
+        padding-top: 8px;
+    }
+    .section4{
+        padding: 10px;
+    }
+    .section7 h4 {
+        font-size: 24px;
+    }
+    .section7 .img .right-text h4 {
+        font-size: 20px;
+    }
+    .section8 .main-style .text h3 {
+        font-size: 21px;
+    }
+    .section9{
+        padding: 10px;
+    }
+    .section9 h3{
+        font-size: 25px;
+    }
+    .section9 p {
+        font-size: 12px;
+        padding-bottom: 0px;
+    }
+    .section9 .all-style .text-hover {
+     
+        transform: translate(600px);
+    }
+   }
+
+
+
+   @media (max-width: 320px){
+    .section2 .card .card-text span {
+        font-size: 15px;
+        padding-left: 0px;
+    }
+    .section4 h4 {
+        font-size: 19px;
+    }
+    .section4 .card .next-text h4 {
+        font-size: 15px;
+    }
+    .section6 .style-box .text h4 {
+        font-size: 23px;
+    }
+    .section6 .style-box .text .Yorem {
+        font-size: 10px;
+        line-height: 165%;
+        padding-top: 0px;
+    
+   }
+
+   .section6 .style-box .text .text-2 button {
+    display: none;
+}
+    .section6 .img img {
+    height: 363px;
+}   
+    .section7{
+        padding: 10px;
+    }
+.section7 h4 {
+    font-size: 16px;
+    padding-bottom: 10px;
+}
+.section7 .img .right-text .Corem {
+    display: none;
+}
+.section7 .img .right-text h4 {
+    font-size: 15px;
+    line-height: 110%;
+}
+.section7 .img .right-text .WATCH {
+    font-size: 11px;
+    padding-top: 0px;
+}
+.section8{
+    padding: 10px;
+}
+.section8 .main-style .text h3 {
+    font-size: 14px;
+}
+.section8 .WATCH {
+    font-size: 13px;
+    padding-top: 16px;
+}
+    .section9{
+        padding: 10px;
+    }
+.section9 h3 {
+    font-size: 21px;
+}
+.section9 p {
+    font-size: 11px;
+    letter-spacing: 0px;
+    padding-bottom: 0px;
+}
+.section9 .all-style .img img {
+    height: 341px;
+}
+.section9 .all-style .text-hover h3 {
+    font-size: 12px;
+    line-height: 134%;
+}
+footer .style-box .text h4 {
+    font-size: 12px;
+    line-height: 135%;
+}
+}
